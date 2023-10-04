@@ -1,0 +1,33 @@
+/* Clarissa Grkovic October 3rd, 2023
+*/
+a:link{
+    color:aqua
+}
+a:visited{
+    color:blueviolet
+}
+a:hover{
+    color:brown
+}
+/* alert box */
+.alert {
+    padding: 20px;
+    background-color: red;
+    color: white;
+    margin-bottom: 15px;
+}
+/* close botton */
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+/* mouse over botton */
+.closebtn:hover {
+    color: black;
+}
