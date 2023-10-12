@@ -1,0 +1,11 @@
+/* Practice CustomFonts Style Sheet */
+
+@font-face {
+    font-family: 'pixelifysans';
+    src: url('../fonts/static/PixelifySans-Regular.ttf') format('ttf')
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    font-family: 'pixelifysans', "Times New Roman", serif;
+}
