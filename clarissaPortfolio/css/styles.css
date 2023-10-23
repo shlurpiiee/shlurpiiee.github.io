@@ -1,0 +1,17 @@
+/* css used to target all portfolio web pages */
+/* applies to all web pages to promote consistency       */
+    body {
+        background: rgba(143, 136, 116, 0.404);
+        color: #474242;
+        font-size: 1.25rem;
+    }
+    a:link{
+        color:#474242
+    }
+    a:visited{
+        color:#474242
+    }
+    a:hover{
+        color:#000000
+    }
+
